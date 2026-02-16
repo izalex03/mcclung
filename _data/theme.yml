@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: https://duckduckgo.com/?t=ffab&q=mcclung+museum&atb=v348-1&ia=images&iax=images&iai=https%3A%2F%2Fmcclungmuseum.utk.edu%2Fwp-content%2Fuploads%2Fsites%2F78%2F2019%2F04%2F242274_20190411_McClung_Museum_007-scaled.jpg
+featured-image: https://mcclungmuseum.utk.edu/wp-content/uploads/sites/78/2019/04/242274_20190411_McClung_Museum_007-scaled.jpg
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 8em # Default is 8em
 # optional: change position of background image, center, top, bottom
